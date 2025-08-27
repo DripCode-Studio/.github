@@ -56,9 +56,9 @@ E-commerce landing page for authentic football jerseys. Features modern design, 
 5. **🚀 Launch**: Deployment and go-live support
 6. **📈 Growth**: Ongoing maintenance and optimization
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![DripCode Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DripCode-Studio&show_icons=true&theme=radical)
+![DripCode Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DripCode-Studio&show_icons=true&theme=radical) -->
 
 ## 🤝 Let's Work Together
 
