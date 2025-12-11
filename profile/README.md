@@ -11,25 +11,6 @@
 
 We are a **Full Stack Web Studio** based in Canada, specializing in building modern, high-performance web applications that help businesses thrive in the digital world. Our mission is to deliver clean, scalable solutions with style and performance at the forefront.
 
-## 🛍️ Our Services
-
-### **E-commerce Solutions**
-
-Custom online stores built with modern frameworks, payment integrations, and inventory management systems.
-
-### **SaaS Applications**
-
-Scalable software-as-a-service platforms with robust backend architectures and intuitive user interfaces.
-
-### **Mobile Applications**
-
-Cross-platform mobile apps for iOS and Android.
-
-### **Web Development**
-
-Full-stack web applications.
-
-
 ## 🤝 Let's Work Together
 
 We're always excited to work on new projects and help businesses achieve their digital goals. Whether you need a simple landing page or a complex web application, we've got you covered.
