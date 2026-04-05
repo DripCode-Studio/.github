@@ -30,4 +30,20 @@ We're always excited to work on new projects and help businesses achieve their d
 
 </div>
 
+### 🧪 DripCode Studio Projects
+> Contact dripcodestudio@gmail.com for business. 😆[visit here](https://dripcodestudio.com/)
+
+| Project | Client / Context | Description | Repo |
+|--------|------------------|-------------|------------|
+| 👨🏾‍💻 Agency Website | DripCode Studio | Official website for the agency | [visit](https://dripcodestudio.com/) |
+| 🚸 AcadXP  | open source software | Transform Your Academic Journey into an Epic Adventure | [repo](https://github.com/acadxp/acadxp) |
+| 📦 Stocky  | open source software | An inventory management web application | [repo](https://github.com/DripCode-Studio/stocky) |
+| 🔎 DevKit  | open source software | Your Ultimate Developer Resource Hub | [repo](https://github.com/DevKit-Org/devkit) |
+| 🎶 Dimmer - Landing page  | client | Dimmer is a hybrid music player | [repo](https://dimmer-maui.vercel.app/) |
+| 👔 THEHØØDX Store  | client | Clothing Brand | [repo](https://thehoodx.vercel.app/) |
+| 🍲 AfroChef  | case study | A modern recipe management platform celebrating African cuisine | [repo](https://github.com/DripCode-Studio/afro-chef) |
+| 📉 LedgerYear  | case study | A comprehensive expense tracking SaaS application | [repo](https://github.com/DripCode-Studio/ledger-year) |
+
+---
+
 <sub>© 2025 DripCode Studio. Built with ❤️ in Canada.</sub>
