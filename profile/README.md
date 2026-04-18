@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-dripcodestudio.com-blue?style=flat-square&logo=globe)](https://dripcodestudio.com/)
 [![Email](https://img.shields.io/badge/Email-dripcodestudio@gmail.com-red?style=flat-square&logo=gmail)](mailto:dripcodestudio@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@dripcodestudio-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/dripcodestudio)
+[![Instagram](https://img.shields.io/badge/Instagram-@dripcodestudio-1DA1F2?style=flat-square&logo=twitter)](https://www.instagram.com/dripcodestudio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-company/dripcodestudio-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/dripcodestudio)
 
 ## 🚀 About Us
@@ -19,8 +19,6 @@ We're always excited to work on new projects and help businesses achieve their d
 
 - **🌐 Website**: [dripcodestudio.com](https://dripcodestudio.com/)
 - **📧 Email**: [dripcodestudio@gmail.com](mailto:dripcodestudio@gmail.com)
-- **🐦 Twitter**: [@dripcodestudio](https://twitter.com/dripcodestudio)
-- **💼 LinkedIn**: [company/dripcodestudio](https://linkedin.com/company/dripcodestudio)
 
 <div align="center">
 
@@ -39,6 +37,7 @@ We're always excited to work on new projects and help businesses achieve their d
 | 🚸 AcadXP  | open source software | Transform Your Academic Journey into an Epic Adventure | [repo](https://github.com/acadxp/acadxp) |
 | 📦 Stocky  | open source software | An inventory management web application | [repo](https://github.com/DripCode-Studio/stocky) |
 | 🔎 DevKit  | open source software | Your Ultimate Developer Resource Hub | [repo](https://github.com/DevKit-Org/devkit) |
+| 🆙 VoiceUp  | Mobile app | Your only petition application | [release](https://github.com/DripCode-Studio/VoiceUp/releases) |
 | 🎶 Dimmer - Landing page  | client | Dimmer is a hybrid music player | [repo](https://dimmer-maui.vercel.app/) |
 | 👔 THEHØØDX Store  | client | Clothing Brand | [repo](https://thehoodx.vercel.app/) |
 | 🍲 AfroChef  | case study | A modern recipe management platform celebrating African cuisine | [repo](https://github.com/DripCode-Studio/afro-chef) |
