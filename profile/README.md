@@ -1,6 +1,6 @@
 # 🌐 DripCode Studio
 
-**Dripping code. Shipping fast. ⚡**
+**Easy way to Connect. Create. Collaborate.**
 
 [![Website](https://img.shields.io/badge/Website-dripcodestudio.com-blue?style=flat-square&logo=globe)](https://dripcodestudio.com/)
 [![Email](https://img.shields.io/badge/Email-dripcodestudio@gmail.com-red?style=flat-square&logo=gmail)](mailto:dripcodestudio@gmail.com)
@@ -9,11 +9,7 @@
 
 ## 🚀 About Us
 
-We are a **Full Stack Web Studio** based in Canada, specializing in building modern, high-performance web applications that help businesses thrive in the digital world. Our mission is to deliver clean, scalable solutions with style and performance at the forefront.
-
-## 🤝 Let's Work Together
-
-We're always excited to work on new projects and help businesses achieve their digital goals. Whether you need a simple landing page or a complex web application, we've got you covered.
+We are a **Creative Studio ⚓** based in Canada x Brussels, specializing in building modern, high-performance projects that help businesses thrive in the digital world. Our mission is to deliver clean, scalable solutions with style and performance at the forefront.
 
 ### 💬 Get in Touch
 
@@ -22,7 +18,7 @@ We're always excited to work on new projects and help businesses achieve their d
 
 <div align="center">
 
-**Ready to drip some code? Let's build something amazing together! 🚀**
+**Let's build something amazing together! 🚀**
 
 [![Contact Us](https://img.shields.io/badge/Contact_Us-Get_Started-FF6B6B?style=for-the-badge&logo=rocket)](mailto:dripcodestudio@gmail.com)
 
@@ -45,4 +41,4 @@ We're always excited to work on new projects and help businesses achieve their d
 
 ---
 
-<sub>© 2025 DripCode Studio. Built with ❤️ in Canada.</sub>
+<sub>© 2026 DripCode Studio. Built with ❤️ in Canada.</sub>
