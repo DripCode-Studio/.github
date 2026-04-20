@@ -41,4 +41,4 @@ We are a **Creative Studio ⚓** based in Canada x Brussels, specializing in bui
 
 ---
 
-<sub>© 2026 DripCode Studio. Built with ❤️ in Canada.</sub>
+<sub>© 2026 DripCode Studio. Built with ❤️ in Canada x Belgium.</sub>
