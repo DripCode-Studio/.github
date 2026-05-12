@@ -9,12 +9,13 @@
 
 ## 🚀 About Us
 
-We are a **Creative Studio ⚓** based in Canada x Brussels, specializing in building modern, high-performance projects that help businesses thrive in the digital world. Our mission is to deliver clean, scalable solutions with style and performance at the forefront.
+We are a **Creative Studio ⚓** based in 📍Accra 🇬🇭 • Brussels, specializing in building modern, high-performance projects that help businesses thrive in the digital world. Our mission is to deliver clean, scalable solutions with style and performance at the forefront.
 
 ### 💬 Get in Touch
 
 - **🌐 Website**: [dripcodestudio.com](https://dripcodestudio.com/)
 - **📧 Email**: [dripcodestudio@gmail.com](mailto:dripcodestudio@gmail.com)
+- **📸 Instagram**: [@dripcodestudio](https://www.instagram.com/dripcodestudio/)
 
 <div align="center">
 
