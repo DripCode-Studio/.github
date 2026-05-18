@@ -9,7 +9,7 @@
 
 ## 🚀 About Us
 
-We are a **Creative Studio ⚓** based in 📍Accra 🇬🇭 • Brussels, specializing in building modern, high-performance projects that help businesses thrive in the digital world. Our mission is to deliver clean, scalable solutions with style and performance at the forefront.
+We are a **Creative Studio ⚓**, specializing in building modern, high-performance projects that help businesses thrive in the digital world. Our mission is to deliver clean, scalable solutions with style and performance at the forefront.
 
 ### 💬 Get in Touch
 
