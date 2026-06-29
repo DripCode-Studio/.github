@@ -26,21 +26,6 @@ We are a **Creative Studio ⚓**, specializing in building modern, high-performa
 
 </div>
 
-### 🧪 DripCode Studio Projects
-> Contact dripcodestudio@gmail.com for business. 😆[visit here](https://dripcodestudio.com/)
-
-| Project | Client / Context | Description | Repo |
-|--------|------------------|-------------|------------|
-| 👨🏾‍💻 Agency Website | DripCode Studio | Official website for the agency | [visit](https://dripcodestudio.com/) |
-| 🚸 AcadXP  | open source software | Transform Your Academic Journey into an Epic Adventure | [repo](https://github.com/acadxp/acadxp) |
-| 📦 Stocky  | open source software | An inventory management web application | [repo](https://github.com/DripCode-Studio/stocky) |
-| 🔎 DevKit  | open source software | Your Ultimate Developer Resource Hub | [repo](https://github.com/DevKit-Org/devkit) |
-| 🆙 VoiceUp  | Mobile app | Your only petition application | [release](https://github.com/DripCode-Studio/VoiceUp/releases) |
-| 🎶 Dimmer - Landing page  | client | Dimmer is a hybrid music player | [repo](https://dimmer-maui.vercel.app/) |
-| 👔 THEHØØDX Store  | client | Clothing Brand | [repo](https://thehoodx.vercel.app/) |
-| 🍲 AfroChef  | case study | A modern recipe management platform celebrating African cuisine | [repo](https://github.com/DripCode-Studio/afro-chef) |
-| 📉 LedgerYear  | case study | A comprehensive expense tracking SaaS application | [repo](https://github.com/DripCode-Studio/ledger-year) |
-
 ---
 
 <sub>© 2026 DripCode Studio. Built with ❤️ in Canada x Belgium.</sub>
